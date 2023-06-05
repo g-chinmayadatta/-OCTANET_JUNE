@@ -11,3 +11,5 @@ Steps:
 3) Then in node_modules folder in yout project file the libraries are downloded 
 4) use the link tag and script tag in the website file <link> , <script></script> 
 
+
+Hare in the Repository I did not include thr node_modules file since for this project we need to use different types of NPM's and Bootstrap Please follow then above steps. 
