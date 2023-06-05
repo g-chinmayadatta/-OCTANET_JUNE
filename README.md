@@ -12,4 +12,4 @@ Steps:
 4) use the link tag and script tag in the website file <link> , <script></script> 
 
 
-Here in the Repository I did not include thr node_modules file since for this project we need to use different types of NPM's and Bootstrap Please follow then above steps. 
+Here in theis Repository I did not include the node_modules file since for this project each one have different types of NPM's versions  and Bootstrap versions so  Please follow then above steps. 
